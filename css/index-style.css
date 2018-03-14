@@ -90,3 +90,14 @@ footer{
     width:70px;
     height:35px;
 }
+#btnGenerar{
+	background:#e12f20;
+	border:none;
+	color:white;
+	cursor:pointer;
+}
+#btnGenerar:hover{
+	background:none;
+	border:1px solid #e12f20;
+	color:#e12f20;
+}
