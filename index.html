@@ -21,42 +21,7 @@
                     <img src="images/settings.png"; onclick="window.location.href=''">
                     <h1>RF Stats - Diseño Celular</h1>
                     <div class='console'>
-                    <?php //Recibir datos para el select
-                         error_reporting(E_ALL & ~ E_NOTICE);
-                    try
-                    {
-                    require "reg/connection.php";
-
-                        $sql="SELECT * FROM rnc ORDER BY id_rnc ASC";
-                        $resultado=$base->prepare($sql);
-                        $resultado->execute(array());
-                    }
-                    catch(Exception $e)
-                    {
-                         die("Algo ha salido mal :c".$e->getMessage());
-                    }
-
-                    //Seleccionar fechas
-                        $sql2="SELECT MAX(ccel_date) as maxFecha FROM ccel";
-                        $resul=$base->prepare($sql2);
-                        $resul->execute(array());
-                        while($fecha1=$resul->fetch(PDO::FETCH_ASSOC))
-                        {
-                            $fechaReciente= $fecha1["maxFecha"];
-
-                        }
-                        $sql3="SELECT MIN(ccel_date) as minFecha FROM ccel";
-                        $resul2=$base->prepare($sql3);
-                        $resul2->execute(array());
-
-                        $fecha2=$resul2->fetch(PDO::FETCH_ASSOC);
-                        $fechaAntigua=$fecha2["minFecha"];
-
-                     //Recibir datos para las graficas
-                    require "graficas/getInfo/info_ccel_1sec.php";
-                    //Script para crear las graficas-->
-                    require "graficas/getCharts/ccel_1sec.php";
-                    ?>
+                    
                     </div>
                     
                 </div>  
