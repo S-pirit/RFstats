@@ -95,6 +95,7 @@ footer{
 	border:none;
 	color:white;
 	cursor:pointer;
+	padding:5px;
 }
 #btnGenerar:hover{
 	background:none;
