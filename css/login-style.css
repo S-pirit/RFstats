@@ -1,0 +1,13 @@
+#table-log{
+    width:200px;
+    height:400px;
+    text-align:center;
+    background-color:#e12f20;
+    
+}
+
+#container{
+	width:100%;
+	display:flex;
+    justify-content: center;
+}

@@ -1,0 +1,92 @@
+@font-face{
+	font-family:light;
+	src:url("../fonts/light.ttf");
+}
+@font-face{
+	font-family:cbold;
+	src:url('../fonts/bold.ttf');
+}
+body{
+    margin:0;
+    padding:0;
+	font-family:light;
+	font-size:15px;
+    font-size:10px;
+}
+
+h1{
+    font-size:30px;
+    margin:auto;
+    text-align:center;
+}
+h2{
+    font-size:25px;
+    margin:auto;
+    text-align:center;
+    color: #ff4c4c;
+}
+h3{
+    font-size:15px;
+    margin:0;
+}
+#wrap{
+   position:relative;
+}
+#head{
+    position:fixed;  
+    width:100%;
+}
+header{
+    position:fixed;
+    color:white;
+}
+main{
+    justify-content: center;
+    display:inline-block;
+    box-sizing: border-box;
+    position:absolute;
+    padding:100px;
+    top:115px;
+    left:150px;
+    width:87%;
+    z-index:-1;
+}
+.chart{
+    width:550px;
+    height:255px;
+    
+}
+.chartGroup{
+    display:flex;
+    margin:auto;
+    justify-content: center;
+}
+.error{
+    color:blue;
+    background:white;
+}
+footer{
+    position:fixed;
+    width:87%;
+    margin-left:150px;
+    bottom:0;
+    color:#e12f20;
+    font-size:15px;
+}
+#add{
+    width:50px;
+    position:fixed;
+    bottom:10px;
+    right:10px;
+    cursor:pointer;
+    transition-duration:.5s;
+}
+#add:hover{
+    cursor:pointer;
+    transform:rotate(360deg);
+}
+#card7 img{
+    margin-top:15px;
+    width:70px;
+    height:35px;
+}

@@ -1,0 +1,43 @@
+main{
+    position:absolute;
+    width:200px;
+    font-family:consolas;
+    color:white;
+    text-align:center;
+    margin-left:50%;
+    transform: translateX(-50%);
+    margin-top: 15%;
+}
+#p1{
+    font-size:50px;
+}
+#p2{
+    font-size:28px;
+}
+#p3{
+    font-size:22px;
+}
+#p4{
+    font-size:17px;
+}
+button{
+    font-size:20px;
+    margin:20px;
+    border:5px solid white;
+    border-radius:10px;
+    background-color:transparent;
+    color:white;
+    cursor:pointer;
+    width:100px;
+    height:50px;
+}
+button:hover{
+    color:transparent;
+    transition-duration:.4s;
+    width:50px;
+    height:50px;
+    border-radius:100%;
+    background:white;
+    background-image: url("close.svg");
+    background-size: contain;
+}

@@ -1,0 +1,25 @@
+@font-face{
+    font-family:clight;
+    src:url("../fonts/light.ttf");
+}
+@font-face{
+    font-family:cbold;
+    src:url("../fonts/bold.ttf");
+}
+body{
+    font-family:clight;
+}
+table{
+    
+}
+input, select{
+    width:160px;
+    height:40px;
+    margin:10px;
+    border:1px red solid;
+    text-align:center;
+}
+
+input:focus{
+    
+}
