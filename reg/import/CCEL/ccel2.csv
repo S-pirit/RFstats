@@ -1,0 +1,19 @@
+Este titulo no debe aparecer,Este titulo no debe aparecer,,,Este titulo no debe aparecer,,,,,,,,,Este titulo no debe aparecer,,,Este titulo no debe aparecer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+REPORTE DIARIO UMTS BH CS TRAFFIC POR WCELL 14/01/2018,Este titulo no debe aparecer,,,Este titulo no debe aparecer,,,,,,,,,Este titulo no debe aparecer,,,Este titulo no debe aparecer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Este titulo no debe aparecer,Este titulo no debe aparecer,,,Este titulo no debe aparecer,,,,,,,,,Este titulo no debe aparecer,,,Este titulo no debe aparecer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Este titulo no debe aparecer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RNC,WCELL,,,Avail,,,,,,,,,RRC Success,,,RAB success,Denied,,,Drop,,,,,,,,,,,CS Traffic,,,Noise,Max power,Avg power,,,,,,,,,,code s,,carga,uusuariosdl,usuariosul
+RNC01PER,PER.nose,,,64,,,,,,,,,99,,,16,62,,,2,,,,,,,,,,,99,,,45,18,17,,,,,,,,,,19,,6,50,57
+RNC01PER,PER.nose,,,83,,,,,,,,,56,,,61,83,,,67,,,,,,,,,,,26,,,46,37,75,,,,,,,,,,27,,34,29,26
+RNC02QUI,QUI.lugar_I,,,94.13,,,,,,,,,50,,,60,31,,,52,,,,,,,,,,,43,,,91,44,7,,,,,,,,,,98,,46,99,65
+RNC02QUI,QUI.lugar_O,,,18,,,,,,,,,33,,,29,3,,,63,,,,,,,,,,,6,,,47,100,81,,,,,,,,,,51,,69,8,22
+RNC02QUI,QUI.lugar_X,,,70.13,,,,,,,,,29.1231,,,41.123,17.12312312,,,33.123123,,,,,,,,,,,7.12312312,,,84,6,81,,,,,,,,,,11,,28,51,55
+RNC02QUI,QUI.lugar_Y,,,83,,,,,,,,,18,,,80,94,,,57,,,,,,,,,,,99,,,68,58,67,,,,,,,,,,26,,97,77,80
+RNC02QUI,QUI.lugar_J,,,31,,,,,,,,,17,,,27,79,,,26,,,,,,,,,,,12,,,55,36,23,,,,,,,,,,72,,34,18,89
+RNC02QUI,QUI.lugar_Q,,,30,,,,,,,,,15,,,72,30,,,89,,,,,,,,,,,26,,,7.12312312,10,90,,,,,,,,,,38,,86,63,32
+RNC02QUI,QUI.lugar_K,,,30,,,,,,,,,15,,,72,30,,,89,,,,,,,,,,,26,,,7.12312312,10,90,,,,,,,,,,38,,86,63,32
+RNC02QUI,QUI.lugar_P,,,30,,,,,,,,,15,,,72,30,,,89,,,,,,,,,,,26,,,7.12312312,10,90,,,,,,,,,,38,,86,63,32
+RNC02QUI,QUI.lugar_Y2,,,30,,,,,,,,,15,,,72,30,,,89,,,,,,,,,,,26,,,7.12312312,10,90,,,,,,,,,,38,,86,63,32
+RNC02QUI,QUI.lugar_Y3,,,30,,,,,,,,,15,,,72,30,,,89,,,,,,,,,,,26,,,7.12312312,10,90,,,,,,,,,,38,,86,63,32
+RNC02QUI,QUI.lugar_Y1,,,30,,,,,,,,,15,,,72,30,,,89,,,,,,,,,,,26,,,7.12312312,10,90,,,,,,,,,,38,,86,63,32
+RNC02QUI,QUI.lugar_Z,,,30,,,,,,,,,15,,,72,30,,,89,,,,,,,,,,,26,,,7.12312312,10,90,,,,,,,,,,38,,86,63,32
